@@ -21,5 +21,5 @@ service eCubPerceptionInterface
     double get_distance();
     bool is_focused();
     YarpVector get_face_position();
-    i16 get_action();
+    string get_action();
 }

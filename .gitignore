@@ -2,3 +2,4 @@ build/
 **/src/src/
 **/src/include/
 **/src/perception_index.txt
+*.code-workspace
