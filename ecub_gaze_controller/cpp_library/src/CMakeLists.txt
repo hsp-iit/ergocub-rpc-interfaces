@@ -1,4 +1,4 @@
-set(LIBRARY_TARGET_NAME eCubGazeController)
+set(LIBRARY_TARGET_NAME eCubGazeControllerInterface)
 
 find_package(YARP REQUIRED COMPONENTS
                  idl_tools
