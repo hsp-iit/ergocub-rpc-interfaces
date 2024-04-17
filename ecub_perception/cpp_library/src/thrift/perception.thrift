@@ -22,4 +22,5 @@ service eCubPerceptionInterface
     bool is_focused();
     YarpVector get_face_position();
     string get_action();
+    YarpVector get_human_position();
 }
