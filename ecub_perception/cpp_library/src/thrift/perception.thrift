@@ -23,4 +23,5 @@ service eCubPerceptionInterface
     YarpVector get_face_position();
     string get_action();
     YarpVector get_human_position();
+    YarpVector get_human_occupancy();
 }
